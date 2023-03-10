@@ -1,6 +1,6 @@
 {
   "name": "Azure Plus",
-  "id": "yesoreyeram-azure-datasource",
+  "id": "petalmd-azure-datasource",
   "type": "datasource",
   "category": "cloud",
   "metrics": true,
@@ -13,8 +13,8 @@
       "url": "https://www.google.com/search?q=Sriramajeyam+Sugumaran"
     },
     "logos": {
-      "small": "img/yesoreyeram-azure-datasource-logo.jpg",
-      "large": "img/yesoreyeram-azure-datasource-logo.jpg"
+      "small": "img/petalmd-azure-datasource-logo.jpg",
+      "large": "img/petalmd-azure-datasource-logo.jpg"
     },
     "keywords": [
       "azure",
@@ -28,7 +28,7 @@
     "links": [
       {
         "name": "Github",
-        "url": "https://github.com/yesoreyeram/grafana-azure-datasource"
+        "url": "https://github.com/petalmd/grafana-azure-datasource"
       }
     ]
   },

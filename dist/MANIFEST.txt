@@ -1,0 +1,38 @@
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+{
+  "manifestVersion": "2.0.0",
+  "signatureType": "private",
+  "signedByOrg": "gpelletier",
+  "signedByOrgName": "gpelletier",
+  "rootUrls": [
+    "https://grafana.mon.petal-health.com/"
+  ],
+  "plugin": "petalmd-azure-datasource",
+  "version": "0.1.0",
+  "time": 1678464744827,
+  "keyId": "7e4d0c6a708866e7",
+  "files": {
+    "LICENSE": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "CHANGELOG.md": "db1165354607ce29f6d83bf6fb1ce55feed6010ab9eea7f2ed8a1fc6975099ab",
+    "plugin.json": "0f18d9749a19e093baae44eea30661327858e6bc20a702d5968a546519255f5a",
+    "README.md": "28daf549a23b6502545f5d7f919c5007dc9f3bffa61af1aa09a6dcd69b84c163",
+    "img/yesoreyeram-azure-datasource-logo.jpg": "ca377bf4a07f745744347be0ad5756e00cf57334e1a5b21cb2a6bad3bd131305",
+    "module.js": "d6fb38e153edd4e86672ae7f1735fe3602c4d1bd5186ddc8e058d1f9124faa84",
+    "dashboards/azure-cost-by-subscription.json": "4cdb107860f2ff4c9cf460c9389d8a73d30ada1b92311ffa060fc7138e8b487a",
+    "LAST_UPDATED": "a1e25db37d9b98aaa3503c0af63356010834cf343360527a263d3789492a5371"
+  }
+}
+-----BEGIN PGP SIGNATURE-----
+Version: OpenPGP.js v4.10.10
+Comment: https://openpgpjs.org
+
+wrcEARMKAAYFAmQLVukAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm5/HLAgd6v5x1QiOTbtuG8lhQACSe3V6daO5yKnq4XQWxRo0mHIOKsvc7
+3BMbD42CkzCfL+MbVAVPImK2H5W435ziSZtosgIGJTDMi8W05xmAYRtCspWc
+MECbSrKwTFwuj8TVIASJquJB0n1vZ+mFtpRZcXaO9lZjVJo7aMynuOm1UpKC
+6paHPZw=
+=EZ16
+-----END PGP SIGNATURE-----

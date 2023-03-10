@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yesoreyeram/grafana-azure-datasource.git"
+    "url": "git+https://github.com/petalmd/grafana-azure-datasource.git"
   },
   "keywords": [
     "grafana",
@@ -26,9 +26,9 @@
   "author": "Sriramajeyam Sugumaran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yesoreyeram/grafana-azure-datasource/issues"
+    "url": "https://github.com/petalmd/grafana-azure-datasource/issues"
   },
-  "homepage": "https://github.com/yesoreyeram/grafana-azure-datasource#readme",
+  "homepage": "https://github.com/petalmd/grafana-azure-datasource#readme",
   "dependencies": {
     "lodash": "^4.17.19"
   },
